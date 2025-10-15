@@ -1,0 +1,14 @@
+#Required libraries for the Project
+
+bentoml      #Framework for serving machine learning models 
+torchvision  #Computer Vision library for PyTorch
+joblib       #For saving and loading machine learning models
+tqdm         #Progress bar for loops  
+pip-chill    #Automatically gives the current versions of installed packages
+transformers #State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch
+datasets     #Hugging Face library for easily accessing and sharing datasets
+wincertstore #Windows SSL certificate store 
+dvc          #Data Version Control for managing datasets and models
+
+
+#  -e .

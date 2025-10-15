@@ -1,0 +1,19 @@
+bentoml
+torchvision
+joblib
+tqdm
+pip-chill
+wincertstore
+dvc  
+mlflow
+ipykernel 
+pandas    
+numpy 
+seaborn
+
+# Testing and dev tools
+pytest==7.4.2
+tox==3.28.0     #Testing framework - write different test cases       
+flake8==6.1.0   #Automated code linting    
+mypy==1.3.0     #Optional static typing for Python
+black==23.9.1   #Code formatter    
